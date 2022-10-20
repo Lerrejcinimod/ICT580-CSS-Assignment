@@ -2,14 +2,41 @@
 
 
 /* you may add to or change the body rule */
-body {
+body { 
+    background-color:beige;
     font-family: sans-serif;
-    color: #fff;
-    background: #000;
+    color: rgb(15, 14, 14);
+    
 }
 img {
     max-width: 100%; /* DO NOT delete or change this line */
 }
+        #stagbeetle { 
+        background-color:rgba(243, 206, 173, 0.618);
+        }
+
+#ladybug {
+    background-color:rgb(253, 160, 126);
+}
+#bluemintbeetle {
+    background-color:rgb(236, 132, 132);
+ }
+ 
+        section * {
+        background-color:white;
+         } 
+        section * {
+            padding: 5px;
+            font-size : 15px;
+             line-height: 20px;
+             Margin: 0;
+             
+             }
+             h2 {
+         text-align: center;
+         }
+
+
 
 /* ----- SUGGESTED COLORS -----
     - ARTICLES
@@ -36,7 +63,7 @@ img {
 
 a {
     color: #379CB2;
-}
+ }
 a:hover {
     color: #82E8FF;
 }
